@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langgraph==0.2.18
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai==0.1.23
+langsmith==0.1.114
+pdfplumber
+python-dotenv
+pydantic
+aiohttp
+IPython

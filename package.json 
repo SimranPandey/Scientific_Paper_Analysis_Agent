@@ -1,0 +1,11 @@
+{
+  "name": "research-assistant",
+  "private": true,
+  "scripts": {
+    "install-all": "npm --prefix frontend install && pip install -r backend/requirements.txt",
+    "dev": "concurrently \"uvicorn backend.main:app --reload --port 8000\" \"npm --prefix frontend start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
