@@ -50,8 +50,8 @@ research-agent-app/
 Add them to `.env`:
 
 ```
-OPENAI_API_KEY=sk-...
-CORE_API_KEY=...
+OPENAI_API_KEY=''
+CORE_API_KEY=''
 ```
 
 ---

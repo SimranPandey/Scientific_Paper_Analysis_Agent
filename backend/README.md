@@ -62,8 +62,8 @@ pip install -r requirements.txt
 Create a `.env` file in the `backend/` directory:
 
 ```
-OPENAI_API_KEY='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'
-CORE_API_KEY='R7J4n52CTvLpBtHKgju3UhAV80bdeSsa'
+OPENAI_API_KEY=''
+CORE_API_KEY=''
 ```
 ---
 
